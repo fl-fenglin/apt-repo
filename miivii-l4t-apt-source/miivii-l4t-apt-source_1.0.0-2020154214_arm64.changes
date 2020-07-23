@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Thu, 23 Jul 2020 15:42:14 +0800
+Source: miivii-l4t-apt-source
+Binary: miivii-l4t-apt-source
+Architecture: source arm64
+Version: 1.0.0-2020154214
+Distribution: stable
+Urgency: low
+Maintainer: Feng Lin <apt.test@miivii.com>
+Changed-By: Feng Lin <apt.test@miivii.com>
+Description:
+ miivii-l4t-apt-source - auto-generated package by debmake
+Changes:
+ miivii-l4t-apt-source (1.0.0-2020154214) stable; urgency=low
+ .
+   * Initial release. Closes: #nnnn
+     <nnnn is the bug number of your ITP>
+   *
+Checksums-Sha1:
+ 78be1544c7d2880cb410a61a0e9bb23ac9fb67aa 1489 miivii-l4t-apt-source_1.0.0-2020154214.dsc
+ 627f068074fd839531f3ded5151d86a4d7843a32 244 miivii-l4t-apt-source_1.0.0.orig.tar.gz
+ 725ff3c20e668849bd9ab468bebdec68c197b97c 1876 miivii-l4t-apt-source_1.0.0-2020154214.debian.tar.xz
+ 956bcdd98015d48995970a9acce23f19fc263768 1504 miivii-l4t-apt-source_1.0.0-2020154214_arm64.deb
+Checksums-Sha256:
+ 94e4ed61d58bdd8c15ddf64b0cc4b509ac62151ca1b752ef46071756123f4d59 1489 miivii-l4t-apt-source_1.0.0-2020154214.dsc
+ 3e33cc8dd763fdd295d245d2870b0fca450748ee0946c1b05a898220aca3c669 244 miivii-l4t-apt-source_1.0.0.orig.tar.gz
+ c8f94de925273a702515dd61077c597bcf3d400d15dbcb8de9c3a11482c29791 1876 miivii-l4t-apt-source_1.0.0-2020154214.debian.tar.xz
+ d62b842e77a5db290badcc6656e7e69e0d9cd7b01662ab2ec510ba294b1313c6 1504 miivii-l4t-apt-source_1.0.0-2020154214_arm64.deb
+Files:
+ b66ea53c467de064e475709bc861d566 1489 unknown extra miivii-l4t-apt-source_1.0.0-2020154214.dsc
+ 856aef18a67a5cb493b05abe3d859ba8 244 unknown extra miivii-l4t-apt-source_1.0.0.orig.tar.gz
+ 10052b81d5a2ccb25a5a5c7605006122 1876 unknown extra miivii-l4t-apt-source_1.0.0-2020154214.debian.tar.xz
+ eaa9dc2e9bbd4984902465e12d529e63 1504 unknown extra miivii-l4t-apt-source_1.0.0-2020154214_arm64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJfGV7tAAoJEK0TkdUr0mja3OIH/2huR6244rMht0dqXccslR65
+jbyRx1cg4oiFsbfLaUiQPc8FBFLFFE7+KzqNi4U/rZx87wVHBA/pp++VCwlrC7QS
+CPmcFlRMrKdd+lFtxTVajixggwpiCYwkqBVzzN/GBdLt+y2B8kjtIOBWV1yUmK1P
+I30XGysJB5g32N3902syIiTYZC4zS/zpoWakpCNpvySYmWFx6TiZl749GXstXc1n
+1Bq1OOVEyR9GpXH5tEFc366bQT7WxA0Er/0vSXdY5X1P4pIOAUUTyd+KyAidIeg8
+fxy2pHuzQoYqPFk/vVV4073L2i8PHCIL1MrSJWvx4OwDKoCKabFnpehOGsM/MuQ=
+=0+aG
+-----END PGP SIGNATURE-----
